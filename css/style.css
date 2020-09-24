@@ -8,10 +8,27 @@ body{
 
 .card-body{
     font-family: 'Lora', serif;
-    padding: 5px;
+    padding: 10px;
     background-color: #058f7c;
     color: white;
     font-family: 'Lora', serif;
     font-size: larger;
     font-weight: bold;
+}
+
+.contact{
+    margin: 40px 10px;
+}
+
+.card-header{
+    color: #058f7c;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: 'Lora', serif;
+    padding: 10px;
+    background-color: transparent;
+}
+
+.form-group{
+    margin: 10px 25px;
 }
