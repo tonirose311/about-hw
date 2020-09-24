@@ -1,3 +1,16 @@
 body{
     background-image: url("https://background-tiles.com/overview/white/patterns/large/1029.png");
 }
+
+.box{
+    padding:25px;
+}
+
+.card-body{
+    font-family: 'Lora', serif;
+    padding: 5px;
+    background-color: #058f7c;
+    color: white;
+    font-family: 'Lora', serif;
+    font-size: larger;
+}
